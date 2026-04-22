@@ -1,1 +1,1 @@
-You read both branch messages ))
+Change from feature branch
